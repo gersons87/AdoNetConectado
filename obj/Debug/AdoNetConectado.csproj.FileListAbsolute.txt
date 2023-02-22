@@ -1,0 +1,12 @@
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.AssemblyReference.cache
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.SuggestedBindingRedirects.cache
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoCliente.resources
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.Properties.Resources.resources
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.GenerateResource.cache
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.csproj.CoreCompileInputs.cache
+E:\Sise Ciclos\visual studio\AdoNetConectado\bin\Debug\AdoNetConectado.exe.config
+E:\Sise Ciclos\visual studio\AdoNetConectado\bin\Debug\AdoNetConectado.exe
+E:\Sise Ciclos\visual studio\AdoNetConectado\bin\Debug\AdoNetConectado.pdb
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.exe
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.pdb
+E:\Sise Ciclos\visual studio\AdoNetConectado\obj\Debug\AdoNetConectado.frmTipoClienteEdit.resources
